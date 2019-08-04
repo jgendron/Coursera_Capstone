@@ -1,3 +1,9 @@
+<p style="text-align: center;">Title</p>
+
+<p style="text-align: center;">Author</p>
+
+<p style="text-align: center;">Date</p>
+
 ## Introduction
 
  where you discuss the business problem and who would be interested in this project.
