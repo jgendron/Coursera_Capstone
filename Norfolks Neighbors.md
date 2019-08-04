@@ -42,6 +42,9 @@ During the course, students interacted with the [Foursquare API](https://develop
   <b>Figure 1: Example of venue data extracted from Foursquare API</b>
 </p>
 
+#### 2.3 Zip code data
+
+Exploring venues in Foursquare requires latitude and longitudes. There are geo-coder packages that help lookup latitude and longitude based on zip code. The site [Data Source: Virginia ZIP Codes](https://www.zip-codes.com/state/va.asp) provides the zip codes for all Norfolk neighborhoods, which will then yield the latitudes and longitudes.
 
 ## 3. Methodology 
 <in development>
