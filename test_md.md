@@ -1,7 +1,7 @@
 <p align="center">
-  <b>Title</b><br>
-  <i>Author</i><br>
-  Date
+  ## Title</b><br>
+  ### <i>Author</i><br>
+  ### Date
 </p>
 
 Normal text
