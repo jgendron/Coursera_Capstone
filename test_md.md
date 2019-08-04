@@ -7,7 +7,7 @@
 Normal text
 
 
-<p style="text-align: center;">Title</p>
+<p style="text-align: center;"><h1>Title</h1></p>
 
 <p style="text-align: center;">Author</p>
 
