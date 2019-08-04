@@ -38,10 +38,8 @@ Norfolk and its neighboring cities are of medium size with populations under 500
 During the course, students interacted with the [Foursquare API](https://developer.foursquare.com/). It is a rich source of geo-location data that enables developers to identify venues in an area identified by a latitude and longitude. The API also allows exploration of venues near venues idenified as well as the categories of the venues. The figure below shows an example of Foursquare data extracted into a pandas dataframe during the course exercise of clustering Toronto neighborhoods.
 
 <p align="center">
-  <img src="http://s.4cdn.org/image/title/105.gif">
-
-  <b>Figure 1: Example of venue data extracted from Foursquare API:</b
   <img src="https://github.com/jgendron/Coursera_Capstone/blob/master/img/1-example_data.JPG">
+  <b>Figure 1: Example of venue data extracted from Foursquare API:</b>
 </p>
 
 
