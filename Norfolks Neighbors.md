@@ -1,7 +1,7 @@
 ## Battle of the Tidewater Neighborhoods: Norfolk, Virginia and its Neighbors
 
 #### _Jay Gendron_
-#### _August 2019
+#### _August 2019_
 
 ### 1. Introduction
 
