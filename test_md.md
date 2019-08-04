@@ -1,5 +1,5 @@
 <p align="center">
-  <h2> Title</h2><br>
+  <center><h2> Title</h2></center><br>
   <h3><i>Author</i><br>
   ### Date</h3>
 </p>
