@@ -39,7 +39,7 @@ During the course, students interacted with the [Foursquare API](https://develop
 
 <p align="center">
   <img src="https://github.com/jgendron/Coursera_Capstone/blob/master/img/1-example_data.JPG">
-  <b>Figure 1: Example of venue data extracted from Foursquare API:</b>
+  <b>Figure 1: Example of venue data extracted from Foursquare API</b>
 </p>
 
 
